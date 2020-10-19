@@ -32,7 +32,7 @@ Copie o arquivo para o host
 
 ```sudo docker cp 76fcbc37b8d8:/ARQUIVO.sql .```
 
-## Para subir um backup database no docker
+## Para subir um backup de um database no docker
 
 Copia o arquivo backup para dentro do container
 
